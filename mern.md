@@ -1,1 +1,9 @@
-<center># MERN</center>
+# MERN
+
+M -> MongoDB
+
+E -> Express.JS
+
+R -> React.JS
+
+N -> Node.JS
