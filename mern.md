@@ -30,7 +30,7 @@
 
 # MERN Big Picture
 
-|        **Client (Browser)**        |                          **Server**                           |
+|    **Client (Browser itself)**     |                          **Server**                           |
 | :--------------------------------: | :-----------------------------------------------------------: |
 |               React                |                     Node, Express, Mongo                      |
 | Presentation/ UI, Single Page Apps | Business Logic, Persistent Data Storage, Authentication Logic |
