@@ -1,9 +1,9 @@
 # MERN
 
-M -> MongoDB
+### M => MongoDB
 
-E -> Express.JS
+### E => Express.JS
 
-R -> React.JS
+### R => React.JS
 
-N -> Node.JS
+### N => Node.JS
