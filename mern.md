@@ -27,3 +27,10 @@
     - Listen/send requests
     - Execute service side logic
     - Interact with DB & Files
+
+# MERN Big Picture
+
+|        **Client (Browser)**        |                          **Server**                           |
+| :--------------------------------: | :-----------------------------------------------------------: |
+|               React                |                     Node, Express, Mongo                      |
+| Presentation/ UI, Single Page Apps | Business Logic, Persistent Data Storage, Authentication Logic |
